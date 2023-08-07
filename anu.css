@@ -1,9 +1,9 @@
 body{
     align-items: center;
-background-color: yellowgreen;
+background-color: rgb(50, 200, 205);
 }
 h1,h2{
-  text-align: start;
+  text-align: center;
 }
 img{
 display:block;
@@ -31,14 +31,12 @@ center {
     margin-right: auto;
     width: 50%;
   }
-p.content{
-	margin:60px;
-    text-align:justify;
-    font-size:22px;
-}
 body {
   background-image: url('img_girl.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
+}
+ol,ul,p{
+  text-align: center;
 }
