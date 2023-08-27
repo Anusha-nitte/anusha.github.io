@@ -31,7 +31,7 @@ th {
 }
 
 body {
-    background-image: url("pexels-martin-péchy-304664.jpg");
+    background-image: url("bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -43,4 +43,12 @@ body {
   margin: 0 auto;
   padding: 20px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+footer {
+  height: max-content;
+  text-align: center;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  padding: 7px;
+  padding-bottom: 4px;
 }
